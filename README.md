@@ -1,4 +1,4 @@
-# EMF 2024 - Festival de Música Eletrônica
+# SEPSE 2024 - Festival de Música Eletrônica
 
 Um site moderno para venda de ingressos de um festival de música eletrônica, construído com Next.js, TypeScript e Tailwind CSS.
 
